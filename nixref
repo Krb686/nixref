@@ -11,6 +11,8 @@
 	chown
 	clear
 	cp
+	cpio
+	cron
 	cut
 	date
 	dd
@@ -20,16 +22,23 @@
 	du
 	echo
 	eject
+	exec
+	export
 	file
 	find
 	fuser
 	grep
-	head
+	gunzip
 	hdparm
+	head
+	history
+	id
 	ifconfig
 	ip
 	kill
+	less
 	ln
+	locate
 	ls
 	lsblk
 	lscpu
@@ -37,15 +46,18 @@
 	lsof
 	lspci
 	man
+	md5sum
 	mkdir
 	mkfifo
 	mkisofs
+	mktemp
 	modprobe
 	mount
 	mv
 	nc
 	netstat
 	objdump
+	passwd
 	ping
 	pkill
 	ps
@@ -54,10 +66,13 @@
 	realpath
 	repoquery
 	reset
+	rev
 	rm
 	rpm
 	scp
 	sed
+	seq
+	setsid
 	sleep
 	sort
 	ssh
@@ -78,6 +93,9 @@
 	ulimit
 	umask
 	umount
+	uname
+	unzip
+	updatedb
 	vim
 	vimdiff
 	w
@@ -85,6 +103,7 @@
 	watch
 	wc
 	wget
+	which
 	whoami
 	wodim
 	xargs
