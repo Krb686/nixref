@@ -1,4 +1,8 @@
 	apt-get
+		install
+		update
+		upgrade
+		dist-upgrade
 	arping
 	awk
 	bash
@@ -27,6 +31,8 @@
 	file
 	find
 	fuser
+	gnumeric
+	gnuplot
 	grep
 	gunzip
 	hdparm
@@ -35,10 +41,12 @@
 	id
 	ifconfig
 	ip
+	iperf		Measure LAN/WLAN performance
 	kill
 	less
 	ln
 	locate
+	lpr
 	ls
 	lsblk
 	lscpu
